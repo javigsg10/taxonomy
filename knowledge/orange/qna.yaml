@@ -1,6 +1,6 @@
 task_description: 'Knowledge skill - Orange Insurance'
 created_by: IBM Data & AI Tech Sales Team
-domain: finance
+domain: insurance
 seed_examples:
  - question: What type of property structures does the insurance cover?
    answer: |
@@ -17,7 +17,7 @@ seed_examples:
  - question: How is the insurance price determined?
    answer: |
      The insurance price is determined based on various factors related to your home, such as its square footage, year of construction, location, the selected coverages, and whether you choose to insure only the contents or the building as well
-     
+
  - question: what does the building and contents coverage include?
    answer: |
      The building coverage includes all the constructive and structural elements of a home, such as walls, ceilings, floors, and installations like heating, water, and electricity, as detailed in the policy terms. The contents coverage refers to everything inside your house, including furniture, appliances, and clothing. Special declarations are required for high-value items such as jewelry, artworks, or valuable items, especially if their unit value exceeds 3,000 euros.
